@@ -1,0 +1,22 @@
+/* Resets  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#hero {
+  background-color: #f0134d;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.content {
+  margin: auto;
+  text-align: center;
+}
+
+.calc-btn {
+  text-align: center;
+}
